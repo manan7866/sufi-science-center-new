@@ -90,9 +90,21 @@ export function Footer() {
                   Purple Soul Collective
                 </Link>
               </li>
+              <li>
+                <Link
+                  href="https://purplecloudfaith.com"
+                  className="text-[#AAB0D6] hover:text-[#C8A75E] transition-colors text-sm whitespace-nowrap"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Enter Marketplace
+                </Link>
+              </li>
             </ul>
+            
           </div>
-
+          {/* { href: '/ecommerce/purple-soul-collective', label: 'Purple Soul Collective by DKC' },
+  { href: 'https://purplecloudfaith.com', label: 'Enter Marketplace', external: true }, */}
           <div>
             <h3 className="text-[#F5F3EE] font-semibold text-sm uppercase tracking-wider mb-4">
               Community

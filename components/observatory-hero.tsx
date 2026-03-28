@@ -8,7 +8,7 @@ interface ObservatoryHeroProps {
   description?: string;
 }
 
-export function ObservatoryHero({ title, subtitle, description }: ObservatoryHeroProps) {
+export function ObservatoryHero({ title, subtitle, description  }: ObservatoryHeroProps) {
   const canvasRef = useRef<HTMLCanvasElement>(null);
 
   useEffect(() => {

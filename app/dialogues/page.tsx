@@ -1,5 +1,6 @@
 import Link from 'next/link';
 import { Users, AlertCircle, Heart, ArrowRight, BookOpen, Mic } from 'lucide-react';
+import { ObservatoryHero } from '@/components/observatory-hero';
 
 export const metadata = {
   title: 'Dialogues | Sufi Science Center',
@@ -36,7 +37,7 @@ const FORMATS = [
 export default function DialoguesPage() {
   return (
     <div className="min-h-screen">
-      <div className="relative py-16 px-4 overflow-hidden border-b border-white/5">
+      {/* <div className="relative py-16 px-4 overflow-hidden border-b border-white/5">
         <div className="absolute inset-0 bg-gradient-to-br from-[#C8A75E]/4 via-transparent to-[#6B9BD1]/4 pointer-events-none" />
         <div className="max-w-5xl mx-auto relative">
           <p className="text-xs tracking-[0.22em] text-[#C8A75E]/60 uppercase mb-3">Sufi Science Center</p>
@@ -48,7 +49,12 @@ export default function DialoguesPage() {
             of wisdom traditions with contemporary understanding. Four formats. One inquiry.
           </p>
         </div>
-      </div>
+      </div> */}
+      <ObservatoryHero
+        subtitle="Sufi Science Center"
+        whiteHeading='Dialogues'
+        description="Bioenergetics, complex systems, and field phenomena examined alongside Sufi frameworks of subtle force, circulation, and divine sustenance — with clear epistemic demarcation throughout."
+      />
 
       <section className="py-20 px-4">
         <div className="max-w-5xl mx-auto">

@@ -82,7 +82,7 @@ export function Footer() {
             <ul className="space-y-3">
               <li>
                 <Link
-                  href="https://purplecloudfaith.com"
+                  href="/ecommerce/purple-soul-collective"
                   className="text-[#AAB0D6] hover:text-[#C8A75E] transition-colors text-sm whitespace-nowrap"
                   target="_blank"
                   rel="noopener noreferrer"

@@ -205,8 +205,8 @@ export function Navigation() {
             {/* Desktop Navigation - Left Aligned on Same Spine */}
             <div className="hidden pl-4 lg:flex items-center space-x-1 flex-1">
               {navLinks.map((link) => {
-                const hasSubmenu = link.label === 'Foundational Studies' || link.label === 'Knowledge Systems' || link.label === 'PSC By DKC Ecommerce' || link.label === 'Research' || link.label === 'Institute Overview' || link.label === 'NextGEN Program';
-                const submenu = link.label === 'Foundational Studies' ? foundationsSubmenu : link.label === 'Knowledge Systems' ? knowledgeSystemsSubmenu : link.label === 'PSC By DKC Ecommerce' ? ecommerceSubmenu : link.label === 'Research' ? researchSubmenu : link.label === 'Institute Overview' ? instituteSubmenu : link.label === 'NextGEN Program' ? nextgenSubmenu : [];
+                const hasSubmenu = link.label === 'Foundational Studies' || link.label === 'Knowledge Systems' || link.label === '' || link.label === 'Research' || link.label === 'Institute Overview' || link.label === 'NextGEN Program';
+                const submenu = link.label === 'Foundational Studies' ? foundationsSubmenu : link.label === 'Knowledge Systems' ? knowledgeSystemsSubmenu : link.label === '' ? ecommerceSubmenu : link.label === 'Research' ? researchSubmenu : link.label === 'Institute Overview' ? instituteSubmenu : link.label === 'NextGEN Program' ? nextgenSubmenu : [];
 
                 return (
                   <div key={link.href} className="relative  group">

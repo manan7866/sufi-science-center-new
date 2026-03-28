@@ -14,6 +14,7 @@ export default function AssessmentPage() {
       <ObservatoryHero
         subtitle="Personal Evaluation"
         whiteHeading='Assessment'
+        goldHeading='Framework'
         description="Calibrated developmental mapping tools integrating contemplative tradition with psychological insight."
       />
 

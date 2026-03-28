@@ -56,8 +56,8 @@ const knowledgeSystemsSubmenu: SubmenuLink[] = [
 ];
 
 const ecommerceSubmenu: SubmenuLink[] = [
-  { href: '/ecommerce/purple-soul-collective', label: 'Purple Soul Collective by DKC' },
-  { href: 'https://purplecloudfaith.com', label: 'Enter Marketplace', external: true },
+  // { href: '/ecommerce/purple-soul-collective', label: 'Purple Soul Collective by DKC' },
+  // { href: 'https://purplecloudfaith.com', label: 'Enter Marketplace', external: true },
 ];
 
 const researchSubmenu: SubmenuLink[] = [

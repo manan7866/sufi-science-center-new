@@ -320,7 +320,8 @@ export default function MastersOfThePathPage({
     <div className="min-h-screen bg-[#0B0F2A]">
       <ObservatoryHero
         subtitle="Foundational Studies"
-        title="Masters of the Path"
+        whiteHeading='Masters of the'
+        goldHeading='Path'
         description="The primary archive of Sufi masters — organized by lineage, region, era, and theme. Apply any filter combination to navigate the full civilizational record."
       />
 

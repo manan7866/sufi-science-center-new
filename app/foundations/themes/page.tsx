@@ -93,7 +93,8 @@ export default function ThemesPage() {
     <div className="min-h-screen bg-[#0B0F2A]">
       <ObservatoryHero
         subtitle="Foundational Studies"
-        title="Core Themes"
+        whiteHeading='Core'
+        goldHeading='Themes'
         description="Thirty-one scholarly themes organized into six conceptual clusters — spanning metaphysics, inner psychology, devotional practice, transmission, theology, and civilizational impact."
       />
 

@@ -129,7 +129,7 @@ export default function WazeefiaPage() {
     <div className="min-h-screen">
       <ObservatoryHero
         subtitle="Inner Development"
-        title="Wazeefia"
+        whiteHeading="Wazeefia"
         description="Disciplined contemplative exercises grounded in ethical intention, cognitive awareness, and structured developmental progression."
       />
 

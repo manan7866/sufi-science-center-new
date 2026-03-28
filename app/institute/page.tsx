@@ -18,7 +18,8 @@ export default function InstitutePage() {
     <div className="min-h-screen bg-[#0B0F2A]">
       <ObservatoryHero
         subtitle="Research Civilization Node"
-        title="About the Institute"
+        whiteHeading='About the'
+        goldHeading="Institute"
         description="A bridge between scientific inquiry and Sufi inner transformation, positioning consciousness research within its civilizational context."
       />
 

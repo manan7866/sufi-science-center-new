@@ -113,7 +113,8 @@ export default function ConsciousnessSystemsPage() {
     <div className="min-h-screen pt-20">
       <ObservatoryHero
         subtitle="Thematic Exploration"
-        title="Consciousness Systems"
+          whiteHeading='Consciousness'
+          goldHeading='Systems'
         description="Integrating contemplative wisdom, rigorous phenomenology, and neuroscientific investigation to explore the nature and potential of consciousness."
       />
 

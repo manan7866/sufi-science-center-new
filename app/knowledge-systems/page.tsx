@@ -8,7 +8,8 @@ export default function KnowledgeSystemsPage() {
     <div className="min-h-screen">
       <ObservatoryHero
         subtitle="Intellectual Backbone"
-        title="Knowledge Systems"
+        whiteHeading='Knowledge'
+        goldHeading="Systems"
         description="Structured framework for understanding how knowledge is defined, transmitted, absorbed, and implemented within contemplative traditions and consciousness research."
       />
 

@@ -76,7 +76,8 @@ export default function MentorshipPage() {
     <div className="min-h-screen">
       <ObservatoryHero
         subtitle="Inner Development"
-        title="Mentorship Programs"
+        whiteHeading='Mentorship'
+        goldHeading='Programs'
         description="Direct guidance from experienced practitioners. Mentorship offers personalized support for navigating the spiritual path with wisdom, accountability, and traditional transmission."
       />
 

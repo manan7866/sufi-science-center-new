@@ -78,7 +78,8 @@ export default function MethodologiesPage() {
     <div className="min-h-screen pt-20 bg-[#0B0F2A]">
       <ObservatoryHero
         subtitle="Research in Action"
-        title="Applied Work and Methodologies"
+        whiteHeading='Applied Work and'
+        goldHeading='Methodologies'
         description="Our structured programs, active research projects, assessment frameworks, and integrated practice-to-research pipeline."
       />
 

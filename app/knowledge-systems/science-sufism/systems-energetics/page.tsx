@@ -135,8 +135,9 @@ export default function SystemsEnergeticsPage() {
   return (
     <div className="min-h-screen bg-[#08091A]">
       <ObservatoryHero
-        subtitle="Science & Sufism — Exploratory Domains"
-        title="Systems, Energetics & Field Dynamics"
+        subtitle="Science & Sufism  Exploratory Domains"
+        whiteHeading='Systems, Energetics &'
+        goldHeading="Field Dynamics"
         description="Bioenergetics, complex systems, and field phenomena examined alongside Sufi frameworks of subtle force, circulation, and divine sustenance — with clear epistemic demarcation throughout."
       />
 

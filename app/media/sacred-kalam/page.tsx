@@ -151,7 +151,8 @@ export default function SacredKalamPage() {
     <div className="min-h-screen pt-20">
       <ObservatoryHero
         subtitle="Literary Archive"
-        title="Sacred Kalam Library"
+        whiteHeading='Sacred'
+        goldHeading="Kalam Library"
         description="A living repository of sacred poetic expression across cultures and languages, connecting literary beauty to spiritual insight."
       />
 

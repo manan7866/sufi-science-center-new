@@ -13,7 +13,7 @@ export default function AssessmentPage() {
     <div className="min-h-screen">
       <ObservatoryHero
         subtitle="Personal Evaluation"
-        title="Assessment"
+        whiteHeading='Assessment'
         description="Calibrated developmental mapping tools integrating contemplative tradition with psychological insight."
       />
 

@@ -69,7 +69,8 @@ export default function EmotionalPage() {
     <div className="min-h-screen">
       <ObservatoryHero
         subtitle="Inner Development"
-        title="Emotional Intelligence"
+        whiteHeading='Emotional'
+        goldHeading='Intelligence'
         description="Integrating classical Sufi heart practices with modern emotional intelligence. The heart is the seat of transformation—purify it, and all else follows."
       />
 

@@ -2,7 +2,7 @@ import Link from 'next/link';
 import { GraduationCap, Award, Check, ArrowRight, Clock, Users } from 'lucide-react';
 
 export const metadata = {
-  title: 'Apply for Membership — Sufi Science Center',
+  title: 'Apply for Membership Sufi Science Center',
   description: 'Apply for Scholar or Fellow membership at the Sufi Science Center',
 };
 

@@ -9,7 +9,8 @@ export default function SufiPsychologyPage() {
     <div className="min-h-screen">
       <ObservatoryHero
         subtitle="Consciousness Research"
-        title="Sufi Psychology"
+        whiteHeading='Sufi'
+        goldHeading='Psychology'
         description="Structured models of consciousness, perception, and human development rooted in contemplative traditions and framed in comparative psychological language."
       />
 

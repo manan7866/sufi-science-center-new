@@ -113,7 +113,8 @@ export default function VolunteerPage() {
       <div className="min-h-screen pt-20 bg-[#0B0F2A]">
         <ObservatoryHero
           subtitle="Community"
-          title="Application Received"
+          whiteHeading='Application '
+          goldHeading='Received'
           description="Thank you for your interest in contributing to the Sufi Science Center."
         />
         <section className="py-24 px-4 observatory-gradient">
@@ -142,7 +143,8 @@ export default function VolunteerPage() {
     <div className="min-h-screen pt-20 bg-[#0B0F2A]">
       <ObservatoryHero
         subtitle="Community Engagement"
-        title="Contribute to the Future of Sufi Science"
+        whiteHeading='Contribute to the Future of'
+        goldHeading=" Sufi Science"
         description="Join our community of researchers, scholars, and practitioners advancing the integration of Sufi wisdom with contemporary inquiry."
       />
 

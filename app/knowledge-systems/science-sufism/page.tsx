@@ -383,7 +383,8 @@ export default function ScienceSufismPage() {
     <div className="min-h-screen bg-[#08091A]">
       <ObservatoryHero
         subtitle="Knowledge Systems"
-        title="Science & Sufism"
+        whiteHeading="Science &"
+        goldHeading="Sufism"
         description="An analytical dialogue between empirical science and inner experiential knowledge. Neither apologetics nor caricature — a serious examination of epistemological boundaries and convergences."
       />
 

@@ -59,7 +59,8 @@ export default function ComplexSystemsPage() {
     <div className="min-h-screen pt-20">
       <ObservatoryHero
         subtitle="Thematic Exploration"
-        title="Complex Systems"
+        whiteHeading='Complex'
+        goldHeading='Systems'
         description="Exploring emergence, self-organization, and collective intelligence through the lens of systems science and contemplative wisdom."
       />
 

@@ -52,7 +52,8 @@ export default function PurposePage() {
     <div className="min-h-screen pt-20 bg-[#0B0F2A]">
       <ObservatoryHero
         subtitle="Research Mission"
-        title="Purpose and Research Direction"
+        whiteHeading='Purpose and'
+        goldHeading='Research Direction'
         description="Our consciousness research goals, inner development model, multi-disciplinary approach, and collaborative roadmap for advancing integrated understanding."
       />
 

@@ -99,7 +99,8 @@ export default function PublicationsPage() {
     <div className="min-h-screen">
       <ObservatoryHero
         subtitle="Scholarly Output"
-        title="Publications"
+        whiteHeading='Research'
+        goldHeading="Publications"
         description="Books, edited volumes, and journal articles produced by the Sufi Science Center's research community."
       />
 

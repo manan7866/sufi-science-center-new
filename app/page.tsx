@@ -22,7 +22,8 @@ export default function Home() {
     <div className="min-h-screen">
       <ObservatoryHero
         subtitle="Consciousness Research Institute"
-        title="Sufi Science Center"
+        whiteHeading='Sufi Science'
+        goldHeading="Center"
         description="A harmony of advanced scientific knowledge and Sufi inner peace. Explore the intersection of consciousness research, knowledge systems, and transformative inner development."
       />
 

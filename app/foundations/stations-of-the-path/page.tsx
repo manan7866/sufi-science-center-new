@@ -81,7 +81,8 @@ export default function StationsOfThePathPage() {
     <div className="min-h-screen">
       <ObservatoryHero
         subtitle="Developmental Cartography"
-        title="Stations of the Path"
+        whiteHeading='Stations of the'
+        goldHeading='Path'
         description="A Developmental Framework for Mapping Inner Transformation. We do not teach mysticism. We map transformation."
       />
       <div className="max-w-6xl mx-auto px-6 py-20">

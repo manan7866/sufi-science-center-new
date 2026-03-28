@@ -83,7 +83,8 @@ export default function PeriodsPage() {
     <div className="min-h-screen bg-[#0B0F2A]">
       <ObservatoryHero
         subtitle="Foundational Studies"
-        title="Historical Periods"
+        whiteHeading='Historical'
+        goldHeading='Periods'
         description="Seven eras spanning fourteen centuries of Sufi intellectual and institutional history — from the Prophetic transmission to the age of reform and modernity."
       />
 

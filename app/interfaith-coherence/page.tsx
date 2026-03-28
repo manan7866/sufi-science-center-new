@@ -20,7 +20,8 @@ export default function InterfaithCoherencePage() {
     <div className="min-h-screen">
       <ObservatoryHero
         subtitle="Civilizational Coherence"
-        title="Interfaith Coherence"
+        whiteHeading='Interfaith'
+        goldHeading="Coherence"
         description="Structural continuity across revelatory traditions rooted in the Abrahamic lineage. When examined through the lens of classical Sufi metaphysics, apparent differences reveal layered continuity."
       />
 

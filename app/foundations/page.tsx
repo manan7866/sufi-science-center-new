@@ -93,7 +93,8 @@ export default function FoundationsOverviewPage() {
     <div className="min-h-screen bg-[#0B0F2A]">
       <ObservatoryHero
         subtitle="Foundational Studies"
-        title="Civilizational Archive"
+        whiteHeading='Civilizational'
+        goldHeading='Archive'
         description="A structured digital archive of Sufi intellectual history — organized by master, lineage, region, era, and theme. Five entry points, one unified archive engine."
       />
 

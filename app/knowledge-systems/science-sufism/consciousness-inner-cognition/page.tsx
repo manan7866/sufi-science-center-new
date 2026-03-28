@@ -136,7 +136,8 @@ export default function ConsciousnessInnerCognitionPage() {
     <div className="min-h-screen bg-[#08091A]">
       <ObservatoryHero
         subtitle="Science & Sufism — Exploratory Domains"
-        title="Consciousness & Inner Cognition"
+        whiteHeading='Consciousness &'
+        goldHeading="Inner Cognition"
         description="Comparative models of awareness, inner knowing, and the architecture of the self — from neuroscientific accounts of mind to classical Sufi phenomenology of the heart."
       />
 

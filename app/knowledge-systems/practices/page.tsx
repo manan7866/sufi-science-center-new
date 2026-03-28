@@ -9,7 +9,8 @@ export default function ContemplativePracticesPage() {
     <div className="min-h-screen">
       <ObservatoryHero
         subtitle="Methodological Framework"
-        title="Contemplative Practices"
+        whiteHeading='Contemplative'
+        goldHeading='Practices'
         description="Structured methodologies for attention training, emotional regulation, and consciousness refinement with clear purpose, method, and psychological function."
       />
 

@@ -77,7 +77,8 @@ export default async function SeriesDetailPage({ params }: SeriesDetailPageProps
     <div className="min-h-screen">
       <ObservatoryHero
         subtitle="Dialogic Inquiry Series"
-        title={series.title}
+        whiteHeading='Exploring'
+        goldHeading={series.title}
         description={series.subtitle || series.description}
       />
 

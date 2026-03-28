@@ -122,7 +122,8 @@ export default function NetworksPage() {
     <div className="min-h-screen pt-20 bg-[#0B0F2A]">
       <ObservatoryHero
         subtitle="Civilizational Scope"
-        title="Global Sufi Networks"
+        whiteHeading='Global Sufi'
+        goldHeading='Networks'
         description="Regional focus areas across Kashmir, South Asia, Central Asia, the Middle East, and Africa, positioning our work within its proper civilizational context."
       />
 

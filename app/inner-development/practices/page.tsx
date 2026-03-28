@@ -101,7 +101,8 @@ function PracticesPageInner() {
     <div className="min-h-screen">
       <ObservatoryHero
         subtitle="Inner Development"
-        title="Consciousness Practices"
+        whiteHeading='Consciousness'
+        goldHeading='Practices'
         description="Classical Sufi practices for transformation, validated by centuries of transmission and increasingly recognized by modern consciousness research."
       />
 

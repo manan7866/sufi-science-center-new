@@ -121,7 +121,8 @@ export default function CollaborationsPage() {
       <div className="min-h-screen pt-20 bg-[#0B0F2A]">
         <ObservatoryHero
           subtitle="Institutional Partnerships"
-          title="Proposal Received"
+          whiteHeading='Proposal'
+          goldHeading='Received'
           description="Thank you for your collaboration proposal."
         />
         <section className="py-24 px-4 observatory-gradient">
@@ -151,7 +152,8 @@ export default function CollaborationsPage() {
     <div className="min-h-screen pt-20 bg-[#0B0F2A]">
       <ObservatoryHero
         subtitle="Institutional Engagement"
-        title="Institutional and Project Collaborations"
+        whiteHeading='Institutional and'
+        goldHeading='Project Collaborations'
         description="We collaborate with academic institutions, research groups, policy organizations, and aligned initiatives advancing the integration of scientific inquiry and inner development."
       />
 

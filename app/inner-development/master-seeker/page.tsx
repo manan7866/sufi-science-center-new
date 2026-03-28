@@ -156,7 +156,8 @@ export default function MasterSeekerPage() {
     <div className="min-h-screen">
       <ObservatoryHero
         subtitle="Inner Development"
-        title="Master Seeker"
+        whiteHeading='Master'
+        goldHeading='Seeker'
         description="Defining the maturity, intellectual humility, and disciplined participation required within advanced stages of inner development."
       />
 

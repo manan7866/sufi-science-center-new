@@ -8,7 +8,8 @@ export default function EpistemologyPage() {
     <div className="min-h-screen">
       <ObservatoryHero
         subtitle="Verification Framework"
-        title="Epistemology & Method"
+        whiteHeading='Epistemology &'
+        goldHeading='Method'
         description="How knowledge is verified, validated, and distinguished from imagination. The institutional framework for evaluating spiritual claims and subjective experience."
       />
 

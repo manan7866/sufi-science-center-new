@@ -105,7 +105,8 @@ export default function ResearchFundingPage() {
     <div className="min-h-screen">
       <ObservatoryHero
         subtitle="Research Funding"
-        title="Grants and Funding"
+        whiteHeading='Grants and'
+        goldHeading="Funding"
         description="Information on current research funding, completed grants, and available funding opportunities for scholars and institutional partners."
       />
 

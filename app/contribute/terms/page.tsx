@@ -20,7 +20,8 @@ export default function TermsPage() {
     <div className="min-h-screen pt-20">
       <ObservatoryHero
         subtitle="Contribute"
-        title="Submission Terms and Policies"
+        whiteHeading='Submission Terms'
+        goldHeading="and Policies"
         description="Copyright, licensing, and publication rights for your contributions."
       />
 

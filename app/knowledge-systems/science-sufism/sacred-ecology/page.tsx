@@ -136,7 +136,8 @@ export default function SacredEcologyPage() {
     <div className="min-h-screen bg-[#08091A]">
       <ObservatoryHero
         subtitle="Science & Sufism — Exploratory Domains"
-        title="Sacred Ecology & Planetary Systems"
+        whiteHeading='Sacred Ecology &'
+        goldHeading="Planetary Systems"
         description="Environmental science in dialogue with Islamic frameworks of stewardship — examining the ecological obligations of khalifa, planetary limits, and the theology of creation's diversity."
       />
 

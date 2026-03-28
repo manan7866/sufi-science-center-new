@@ -83,7 +83,8 @@ export default function WhitePapersPage() {
     <div className="min-h-screen">
       <ObservatoryHero
         subtitle="Institutional Analysis"
-        title="White Papers"
+        whiteHeading='White'
+        goldHeading="Papers"
         description="In-depth position papers, methodological analyses, and institutional frameworks advancing rigorous inquiry at the intersection of sacred knowledge and contemporary science."
       />
 

@@ -3,12 +3,13 @@
 import { useEffect, useRef } from 'react';
 
 interface ObservatoryHeroProps {
-  title: string;
+  whiteHeading?: string;
+  goldHeading?: string;
   subtitle?: string;
   description?: string;
 }
 
-export function ObservatoryHero({ title, subtitle, description  }: ObservatoryHeroProps) {
+export function ObservatoryHero({ whiteHeading, subtitle, description ,goldHeading }: ObservatoryHeroProps) {
   const canvasRef = useRef<HTMLCanvasElement>(null);
 
   useEffect(() => {
@@ -111,7 +112,8 @@ export function ObservatoryHero({ title, subtitle, description  }: ObservatoryHe
         )}
 
         <h1 className="text-5xl md:text-6xl lg:text-7xl font-serif font-bold text-[#F5F3EE] mb-6 leading-[1.1] tracking-tight animate-in fade-in duration-700 delay-100">
-          {title}
+          {whiteHeading && <span>{whiteHeading} </span>}
+          {goldHeading && <span className="text-[#C8A75E]">{goldHeading}</span>}
         </h1>
 
         {description && (

@@ -69,7 +69,8 @@ export default function AdvancedTechnologiesPage() {
     <div className="min-h-screen pt-20">
       <ObservatoryHero
         subtitle="Thematic Exploration"
-        title="Advanced Technologies"
+        whiteHeading='Advanced'
+        goldHeading='Technologies'
         description="Bridging contemplative wisdom and cutting-edge scientific frameworks to explore consciousness, energy, and the nature of reality."
       />
 

@@ -136,7 +136,8 @@ export default function SacredExpressionPage() {
     <div className="min-h-screen bg-[#08091A]">
       <ObservatoryHero
         subtitle="Science & Sufism — Exploratory Domains"
-        title="Sacred Expression & Symbolic Science"
+        whiteHeading='Sacred Expression &'
+        goldHeading="Symbolic Science"
         description="Geometry, sacred sound, calligraphy, and poetry as structured languages encoding cosmological knowledge — examined through cognitive science, aesthetics, and contemplative hermeneutics."
       />
 

@@ -21,7 +21,8 @@ export default function GuidelinesPage() {
     <div className="min-h-screen pt-20">
       <ObservatoryHero
         subtitle="Contribute"
-        title="Submission Guidelines"
+          whiteHeading='Submission'
+          goldHeading="Guidelines"
         description="Standards for academic rigor, cultural authenticity, and editorial quality."
       />
 

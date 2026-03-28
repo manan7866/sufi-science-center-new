@@ -65,7 +65,8 @@ export default function StagesPage() {
     <div className="min-h-screen">
       <ObservatoryHero
         subtitle="Inner Development"
-        title="Stages of Transformation"
+        whiteHeading='Stages of'
+        goldHeading='Transformation'
         description="The classical Sufi path describes stations (maqamat) and states (ahwal) of spiritual development. These are not linear progressions but spiraling deepenings."
       />
 

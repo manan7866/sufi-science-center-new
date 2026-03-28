@@ -83,7 +83,8 @@ export default function AppliedConceptsPage() {
     <div className="min-h-screen">
       <ObservatoryHero
         subtitle="Applied Conceptual Framework"
-        title="Applied Concepts"
+        whiteHeading='Applied'
+        goldHeading='Concepts'
         description="Precise conceptual essays on core Sufi concepts. Short-form knowledge units with clear definitions, practical implications, and cross-referenced connections."
       />
 

@@ -117,7 +117,8 @@ export default function RegionsPage() {
     <div className="min-h-screen bg-[#0B0F2A]">
       <ObservatoryHero
         subtitle="Foundational Studies"
-        title="Civilizational Regions"
+        whiteHeading='Civilizational'
+        goldHeading='Regions'
         description="The geographic spread of Sufi civilization — from the Arabian Peninsula across Persia, Central Asia, South Asia, Anatolia, and North Africa to Al-Andalus and the modern diaspora."
       />
 

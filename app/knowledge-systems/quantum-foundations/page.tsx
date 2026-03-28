@@ -58,7 +58,8 @@ export default function QuantumFoundationsPage() {
     <div className="min-h-screen pt-20">
       <ObservatoryHero
         subtitle="Thematic Exploration"
-        title="Quantum Foundations"
+        whiteHeading='Quantum'
+        goldHeading='Foundations'
         description="Investigating parallels between quantum mechanics and contemplative insights while maintaining rigorous distinction between science and metaphor."
       />
 

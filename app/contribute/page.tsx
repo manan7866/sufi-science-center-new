@@ -85,7 +85,8 @@ export default function ContributePage() {
     <div className="min-h-screen">
       <ObservatoryHero
         subtitle="Community"
-        title="Contribute to the Knowledge Ecosystem"
+        whiteHeading='Contribute to the'
+        goldHeading="Knowledge Ecosystem"
         description="Join scholars, practitioners, and creators in building a living archive of wisdom at the intersection of science and spirituality."
       />
 

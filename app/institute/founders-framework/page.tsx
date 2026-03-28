@@ -104,7 +104,8 @@ export default function FoundersFrameworkPage() {
     <div className="min-h-screen pt-20 bg-[#0B0F2A]">
       <ObservatoryHero
         subtitle="Founder's Framework"
-        title="The SSC Architecture"
+        whiteHeading='The SSC'
+        goldHeading='Architecture'
         description="A structured model for harmonizing Faith and Science, Revelation and Reason, Character and Scholarship, designed by Dr. Fayaz Khan as the intellectual foundation of Sufi Science Center USA."
       />
 

@@ -93,7 +93,8 @@ function SubmitPageInner() {
       <div className="min-h-screen pt-20">
         <ObservatoryHero
           subtitle="Contribute"
-          title="Submission Received"
+          whiteHeading='Submission'
+          goldHeading='Received'
           description="Thank you for your contribution to the Sufi Science Center knowledge ecosystem."
         />
         <div className="max-w-2xl mx-auto px-4 py-16">
@@ -131,7 +132,8 @@ function SubmitPageInner() {
     <div className="min-h-screen pt-20">
       <ObservatoryHero
         subtitle="Contribute"
-        title="Submit Your Work"
+        whiteHeading='Submit Your'
+        goldHeading="Work"
         description="Share your research, wisdom, and creative contributions with the global community."
       />
 

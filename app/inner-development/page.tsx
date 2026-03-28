@@ -111,7 +111,8 @@ export default function InnerDevelopmentPage() {
     <div className="min-h-screen bg-[#0B0F2A]">
       <ObservatoryHero
         subtitle="Transformative Practice"
-        title="Inner Development"
+        whiteHeading='Inner'
+        goldHeading='Development'
         description="Structured pathways for personal transformation — integrating contemplative practice, developmental psychology, and sustained mentorship into a coherent applied framework."
       />
 

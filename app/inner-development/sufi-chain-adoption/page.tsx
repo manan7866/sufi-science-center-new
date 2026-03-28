@@ -165,7 +165,8 @@ export default function SufiChainAdoptionPage() {
     <div className="min-h-screen">
       <ObservatoryHero
         subtitle="Inner Development"
-        title="Sufi Chain Adoption"
+        whiteHeading='Sufi Chain'
+        goldHeading='Adoption'
         description="Structured mentorship and documented transmission aligned with governance integrity and institutional accountability."
       />
 

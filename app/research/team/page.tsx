@@ -113,7 +113,8 @@ export default function ResearchTeamPage() {
     <div className="min-h-screen">
       <ObservatoryHero
         subtitle="Our Scholars"
-        title="Research Team"
+        whiteHeading='Research'
+        goldHeading="Team"
         description="A community of dedicated scholars advancing rigorous integrative inquiry at the intersection of classical Sufi knowledge and contemporary science."
       />
 

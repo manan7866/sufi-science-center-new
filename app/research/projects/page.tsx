@@ -106,7 +106,8 @@ export default function ResearchProjectsPage() {
     <div className="min-h-screen">
       <ObservatoryHero
         subtitle="Research Initiatives"
-        title="Institute Projects"
+        whiteHeading='Institute'
+        goldHeading="Projects"
         description="Structured research programmes advancing the integration of classical Sufi knowledge with contemporary scientific inquiry."
       />
 

@@ -10,7 +10,8 @@ export default function SufiKnowledgeArchitecturePage() {
     <div className="min-h-screen">
       <ObservatoryHero
         subtitle="Epistemological Framework"
-        title="Architecture of Knowledge"
+        whiteHeading='Architecture of'
+        goldHeading='Knowledge'
         description="A Disciplined System of Inner Development Integrating Cognition, Affect Regulation, Ethical Refinement, and Contemplative Stabilization. Sufi knowledge is not informational accumulation. It is transformative integration."
       />
       <div className="max-w-6xl mx-auto px-6 py-20">

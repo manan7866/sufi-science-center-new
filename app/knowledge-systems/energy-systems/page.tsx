@@ -103,7 +103,8 @@ export default function EnergySystemsPage() {
     <div className="min-h-screen pt-20">
       <ObservatoryHero
         subtitle="Thematic Exploration"
-        title="Energy Systems"
+        whiteHeading='Energy'
+        goldHeading='Systems'
         description="Bridging ancient wisdom about subtle energies with contemporary biophysics, consciousness research, and systems science."
       />
 

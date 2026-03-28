@@ -176,7 +176,8 @@ export default function SufiPulseStudioPage() {
     <div className="min-h-screen pt-20">
       <ObservatoryHero
         subtitle="Media Arm"
-        title="SufiPulse Studio USA"
+        whiteHeading='SufiPulse'
+        goldHeading="Studio USA"
         description="Multilingual sacred music as a contemplative gateway into inner science."
       />
 

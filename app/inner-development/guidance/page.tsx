@@ -60,7 +60,8 @@ export default function GuidancePage() {
     <div className="min-h-screen">
       <ObservatoryHero
         subtitle="Inner Development"
-        title="Personal Guidance"
+        whiteHeading='Personal'
+        goldHeading='Guidance'
         description="Structured pathways tailored to different starting points and temperaments. Each pathway integrates practices, stages, and guidance appropriate to your journey."
       />
 

@@ -67,7 +67,8 @@ export default function LineagesPage() {
     <div className="min-h-screen bg-[#0B0F2A]">
       <ObservatoryHero
         subtitle="Foundational Studies"
-        title="Lineages & Orders"
+        whiteHeading='Lineages &'
+        goldHeading='Orders'
         description="The formal transmission chains of Sufi civilization — from the earliest pre-institutional masters through the major classical orders and their regional sub-branches."
       />
 

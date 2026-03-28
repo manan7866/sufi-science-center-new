@@ -12,7 +12,8 @@ export default function MediaPage() {
     <div className="min-h-screen">
       <ObservatoryHero
         subtitle="Sonic and Literary Transmission"
-        title="Media and Expression"
+        whiteHeading='Media and'
+        goldHeading="Expression"
         description="The artistic articulation of Sufi consciousness through sound, language, and contemplative interpretation."
       />
 

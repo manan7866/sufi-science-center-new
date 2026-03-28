@@ -33,7 +33,7 @@ export default function ContactPage() {
     <div className="min-h-screen">
       <ObservatoryHero
         subtitle="Get In Touch"
-        title="Contact"
+        whiteHeading='Contact'
         description="Reach out to the Sufi Science Center for research enquiries, collaboration proposals, media requests, or general questions."
       />
 

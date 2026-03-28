@@ -77,7 +77,7 @@ export default function FounderPage() {
     <div className="min-h-screen pt-20 bg-[#0B0F2A]">
       <ObservatoryHero
         subtitle="Founder"
-        title="Dr. Fayaz Khan"
+        whiteHeading='Dr. Fayaz Khan'
         description="Founder, Sufi Science Center USA · Founder, Dr. Kumar Foundation USA · Founder, SufiPulse Studio USA"
       />
 

@@ -136,7 +136,8 @@ export default function KnowledgeTransmissionPage() {
     <div className="min-h-screen bg-[#08091A]">
       <ObservatoryHero
         subtitle="Science & Sufism — Exploratory Domains"
-        title="Knowledge Transmission & Lineage Dynamics"
+        whiteHeading='Knowledge Transmission &'
+        goldHeading="Lineage Dynamics"
         description="How spiritual knowledge is transmitted, preserved, and verified across generations — examined through network science, cultural transmission research, and classical Sufi epistemology of the chain."
       />
 

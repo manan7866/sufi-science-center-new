@@ -89,7 +89,8 @@ export default function CirclesPage() {
     <div className="min-h-screen">
       <ObservatoryHero
         subtitle="Inner Development"
-        title="Study Circles"
+        whiteHeading='Study'
+        goldHeading='Circles'
         description="Join intimate learning communities exploring classical texts with experienced facilitators. Study circles combine scholarship with practice, intellectual understanding with experiential knowing."
       />
 

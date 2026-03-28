@@ -122,7 +122,8 @@ export default function QuantumFundamentalRealityPage() {
     <div className="min-h-screen bg-[#08091A]">
       <ObservatoryHero
         subtitle="Science & Sufism — Exploratory Domains"
-        title="Quantum Theory & Non-Local Ontologies"
+        whiteHeading='Quantum Theory &'
+        goldHeading="Non-Local Ontologies"
         description="Where quantum mechanics raises interpretive questions about observation, non-locality, and the structure of reality — examined alongside classical Islamic metaphysical frameworks, with rigorous distinction between science and analogy."
       />
 

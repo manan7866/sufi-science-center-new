@@ -93,7 +93,8 @@ export default function ResearchPapersPage() {
     <div className="min-h-screen">
       <ObservatoryHero
         subtitle="Peer-Reviewed Research"
-        title="Research Papers"
+        whiteHeading='Research'
+        goldHeading="Papers"
         description="Original scholarly publications advancing understanding at the intersection of Sufi wisdom traditions and contemporary scientific inquiry."
       />
 

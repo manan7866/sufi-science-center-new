@@ -121,7 +121,8 @@ export default function InterfaithPage() {
     <div className="min-h-screen bg-[#0B0F2A] pt-32">
       <ObservatoryHero
         subtitle="Institute Pillar"
-        title="Interfaith & Civilizational Dialogue"
+        whiteHeading='Interfaith & Civilizational'
+        goldHeading='Dialogue'
         description="Comparative exploration of mystical, contemplative, and ethical traditions across civilizations"
       />
 

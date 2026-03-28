@@ -9,7 +9,8 @@ export default function QuestionsAndUnderstandingPage() {
     <div className="min-h-screen bg-[#0B0F2A]">
       <ObservatoryHero
         subtitle="Institutional Clarity"
-        title="Questions & Understanding"
+        whiteHeading='Questions &'
+        goldHeading="Understanding"
         description="Structured answers to questions about the Center's work, methodology, programs, governance, and institutional positioning."
       />
       <QAPageContent />

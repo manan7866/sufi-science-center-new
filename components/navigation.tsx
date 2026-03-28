@@ -28,7 +28,7 @@ const navLinks: NavLink[] = [
   { href: '/interfaith-coherence', label: 'Interfaith Coherence', ariaLabel: 'Interfaith Coherence' },
   { href: '/nextgen-sufi-seeker', label: 'NextGEN Program', ariaLabel: 'NextGEN Sufi Seeker Program' },
   { href: '/ecommerce/purple-soul-collective', label: 'PSC By DKC Ecommerce', ariaLabel: 'PSC By DKC Ecommerce' },
-  { href: '/research', label: 'Research', ariaLabel: 'Research' },
+  { href: '/research', label: 'Sufi Research', ariaLabel: 'Sufi Research' },
   { href: '/institute', label: 'Institute Overview', ariaLabel: 'Institute' },
 ];
 
